@@ -1,33 +1,24 @@
 # LabelHub-Automated-Testing-
 Environment Setup:
 In our testing, we used Selenium within the programming environment of Visual Studio Code (VS Code), scripting our code using Python. To provide a thorough insight into our testing setup, here’s the steps that show how our testing environment was prepared:
+
 1. Acquire Necessary Software:
 Download and install Visual Studio Code
-
 Obtain Python
 2.Configure Visual Studio Code:
-
 Install Python extension for Visual Studio Code
-
 Also set the python installation path in our system
 3.Selenium Installation for testing:
-
 Create a virtual environment for our project.
-
 While within the activated virtual environment, install Selenium using the command:
 “pip install selenium”
 4.WebDriver Download and Configuration:
-
 Download Chrome Driver and put the chromedriver.exe file in a folder.
-●
 Add that folder's path to our system.
 5. Write python script:
-
 Finally, write our selenium test script for different test cases in python script within Visual Studio Code
 6. Run the Script:
-
 Run our automated test cases.
-
 Use Cases that were tested:
 Signup by User
 
