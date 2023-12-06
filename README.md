@@ -1,0 +1,2 @@
+# LabelHub-Automated-Testing-
+Selenium Python was used for automated Functional Testing of Labelhub, a web app under the Bangladesh Government, for labeling and annotating texts for Natural Language Processing uses in Bangla, conducted in Software Quality and Assurance course (CSE434) course. Use cases include user signup, login/logout, admin tasks (user/label addition, project/group creation, data assignment), and annotation/validation processes. 
